@@ -9,22 +9,9 @@ If speed is ≤ 70, prints "Ok".
 Every 5 km/h above the limit earns 1 demerit point.
 3. **Net Salary Calculator**: Calculates net salary based on basic salary and benefits.
 
-## Extra Practice
-1. **Bubble Sort**: Sorts an array of numbers from lowest ton highest
-2. **Staircase Problem**: Prints a step-shaped stair using the `#` character.
-3. **Volume of a Cylinder**: Calculates the volume of a cylinder.
 
 ## How to Run
 1. Clone the repository.
 2. Open each file in a JavaScript environment (e.g., Node.js or browser console).
-3. Run the code.
-
-## Author
-[Your Name]Speed Detector**: Calculates demerit points based on car speed.
-3. **Net Salary Calculator**: Calculates net salary based on basic salary and benefits.
-
-## How to Run
-1. Clone the repository.
-2. Open each file in a JavaScript environment (e.g., Node.js or browser console).
-3. Run the code.
+3. Run the code
 
